@@ -1,2 +1,2 @@
 # Dark-fantasy-game
-Game genre: Visual novel
+Жанр игры: визуальнная новелла
